@@ -1,2 +1,5 @@
 # simpleOperatorArithmeticsCPP
-&lt; + - * / >  
+< + - * / > 
+
+
+![alt text](image.png)
